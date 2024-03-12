@@ -59,6 +59,16 @@ body {
 	color: var(--text-color);
 }
 
+#root {
+    min-height: 100vh;
+}
+
+.App {
+    min-height: 100vh;
+    display: flex;
+	flex-direction: column;
+}
+
 /* General */
 
 .container {
