@@ -14,13 +14,11 @@ const Projects = () => {
                         return <Project key={index} title={project.title} img={project.imgMini}  />
                     })
                 }
-                
-                
 
             </ul>
         </div>
     </main>
-     );
+        );
 }
- 
+
 export default Projects;

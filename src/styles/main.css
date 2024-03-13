@@ -133,6 +133,12 @@ body {
 	font-weight: 700;
 }
 
+.heart {
+    width: 25px;
+    margin-top: 5px;
+    margin-right: 15px;
+}
+
 .nav-list {
 	display: flex;
 	flex-wrap: wrap;
