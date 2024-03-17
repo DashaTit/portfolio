@@ -7,7 +7,7 @@ import tstsoMini from "./../img/projects/tstso-rt-mini.png";
 const projects = [
     {
         title: "Сайт для магазина тваров для татуировок",
-        sills: "HTML, CSS, SCSS, JS",
+        skills: "HTML, CSS, SCSS, JS",
         imgMax: tatooSiteMax,
         imgMini: tatooSiteMini,
         gitHub: 'https://github.com/DashaTit/tatoo_site',
@@ -16,11 +16,11 @@ const projects = [
 
     {
         title: "Центр ЦТСО РТ",
-        sills: "HTML, CSS, SCSS, JS",
+        skills: "HTML, CSS, SCSS, JS",
         imgMax: tstsoMax,
         imgMini: tstsoMini,
-        gitHub: 'https://github.com/DashaTit/tatoo_site',
-        link: 'https://dashatit.github.io/tatoo_site/html/',
+        gitHub: 'https://github.com/DashaTit/Pautina-contest',
+        link: 'https://dashatit.github.io/Pautina-contest/',
     },
 
 ]
