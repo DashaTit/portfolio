@@ -342,6 +342,7 @@ body {
 }
 
 .project__img {
+    border: var(--box-shadow) 2px solid;
 	border-radius: 10px;
 }
 

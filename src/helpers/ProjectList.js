@@ -1,5 +1,8 @@
 import tatooSiteMax from "./../img/projects/tatoo-site.jpg";
-import tatooSiteMini from "./../img/projects/tatoo-site-mini.jpg"
+import tatooSiteMini from "./../img/projects/tatoo-site-mini.jpg";
+import tstsoMax from "./../img/projects/tstso-rt.png";
+import tstsoMini from "./../img/projects/tstso-rt-mini.png";
+
 
 const projects = [
     {
@@ -12,21 +15,13 @@ const projects = [
     },
 
     {
-        title: "Сайт для магазина тваров для татуировок",
+        title: "Центр ЦТСО РТ",
         sills: "HTML, CSS, SCSS, JS",
-        imgMax: tatooSiteMax,
-        imgMini: tatooSiteMini,
+        imgMax: tstsoMax,
+        imgMini: tstsoMini,
         gitHub: 'https://github.com/DashaTit/tatoo_site',
         link: 'https://dashatit.github.io/tatoo_site/html/',
     },
-
-    {
-        title: "Сайт для магазина тваров для татуировок",
-        sills: "HTML, CSS, SCSS, JS",
-        imgMax: tatooSiteMax,
-        imgMini: tatooSiteMini,
-        gitHub: 'https://github.com/DashaTit/tatoo_site',
-    }
 
 ]
 
