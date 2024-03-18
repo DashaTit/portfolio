@@ -2,8 +2,9 @@ import { useParams } from 'react-router-dom';
 
 import {projects} from './../helpers/ProjectList'
 
-import p1 from "./../img/projects/tatoo-site.jpg";
 import BtnGitHub from "../components/GitHub-btn/GitHub-Btn";
+
+import LinkBtn from "../components/GitHub-btn/LinkBtn";
 
 const Project = () => {
     const {id} = useParams();
@@ -24,6 +25,10 @@ const Project = () => {
 
                     {project.gitHub && (
                         <BtnGitHub link={project.gitHub} />
+                    )}
+
+                    {project.link && (
+                        <LinkBtn link={project.link} />
                     )}
 
                 </div>
