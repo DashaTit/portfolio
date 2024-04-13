@@ -23,6 +23,15 @@ const projects = [
         link: 'https://dashatit.github.io/Pautina-contest/',
     },
 
+    {
+        title: "Центр ЦТСО РТ",
+        skills: "HTML, CSS, SCSS, JS",
+        imgMax: tstsoMax,
+        imgMini: tstsoMini,
+        gitHub: 'https://github.com/DashaTit/Pautina-contest',
+        link: 'https://dashatit.github.io/Pautina-contest/',
+    },
+
 ]
 
 export {projects}
