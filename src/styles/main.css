@@ -358,6 +358,10 @@ body {
 	color: var(--project-card-text);
 }
 
+.contacts_title {
+    color: var(--black);
+}
+
 /* Project details */
 
 .project-details {

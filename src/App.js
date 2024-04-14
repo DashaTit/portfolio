@@ -7,7 +7,7 @@ import Footer from "./components/footer/Footer";
 import Home from "./pages/Home"
 import Projects from "./pages/Projects";
 import Project from "./pages/Project";
-import Contacts from "./pages/Contacts";
+// import Contacts from "./pages/Contacts";
 
 
 function App() {
@@ -19,7 +19,7 @@ function App() {
                     <Route exact path="/" element={<Home/>} />
                     <Route path="/projects" element={<Projects />} />
                     <Route path="/project/:id" element={<Project />} />
-                    <Route path="/contacts" element={<Contacts />} />
+                    {/* <Route path="/contacts" element={<Contacts />} /> */}
                 </Routes>
                 <Footer />
             </Router>

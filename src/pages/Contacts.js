@@ -6,22 +6,13 @@ const Contacts = () => {
 
                 <ul className="content-list">
                     <li className="content-list__item">
-                        <h2 className="title-2">Location</h2>
-                        <p>Kazan, Russia</p>
-                    </li>
-                    <li className="content-list__item">
-                        <h2 className="title-2">Telegram / WhatsApp</h2>
-                        <p><a href="tel:+79051234567">+7 (917) 287-25-04</a></p>
-                    </li>
-                    <li className="content-list__item">
-                        <h2 className="title-2">Email</h2>
-                        <p><a href="mailto:webdev@protonmail.com">webdev@protonmail.com</a></p>
+                        <a className="title-2"  href="https://t.me/arrya_dt">Telegram</a>
                     </li>
                 </ul>
 
         </div>
     </main>
-     );
+    );
 }
  
 export default Contacts;

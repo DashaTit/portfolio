@@ -31,11 +31,11 @@ const Navbar = () => {
                                     Projects
                                 </NavLink>
                             </li>
-                            <li className="nav-list__item">
+                            {/* <li className="nav-list__item">
                                 <NavLink to="/contacts" className={({isActive}) => isActive ? activeLink : normal}>
                                     Contacts
                                 </NavLink>
-                            </li>
+                            </li> */}
                         </ul>
                     </div>
                 </div>
