@@ -7,14 +7,6 @@ import portfolioMax from "./../img/projects/maxPortfolio.png";
 
 
 const projects = [
-    {
-        title: "Сайт для магазина тваров для татуировок",
-        skills: "HTML, CSS, SCSS, JS",
-        imgMax: tatooSiteMax,
-        imgMini: tatooSiteMini,
-        gitHub: 'https://github.com/DashaTit/tatoo_site',
-        link: 'https://dashatit.github.io/tatoo_site/html/',
-    },
 
     {
         title: "Центр ЦТСО РТ",
