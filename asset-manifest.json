@@ -1,12 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ab8115ce.css",
-    "main.js": "/portfolio/static/js/main.97212a69.js",
+    "main.js": "/portfolio/static/js/main.e85c6b34.js",
     "static/js/453.f00fb91e.chunk.js": "/portfolio/static/js/453.f00fb91e.chunk.js",
     "static/media/tstso-rt.png": "/portfolio/static/media/tstso-rt.d49140eb2643eea5b387.png",
     "static/media/tstso-rt-mini.png": "/portfolio/static/media/tstso-rt-mini.31871a3d42dccbe01732.png",
-    "static/media/tatoo-site.jpg": "/portfolio/static/media/tatoo-site.f665f94f69812dcf6256.jpg",
-    "static/media/tatoo-site-mini.jpg": "/portfolio/static/media/tatoo-site-mini.806559aa4144fbf60d64.jpg",
     "static/media/miniPortfolio.png": "/portfolio/static/media/miniPortfolio.ec3516c9e8c77b47897d.png",
     "static/media/maxPortfolio.png": "/portfolio/static/media/maxPortfolio.4cb95e39b8a01d87ca6f.png",
     "static/media/header-bg.png": "/portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
@@ -25,11 +23,11 @@
     "index.html": "/portfolio/index.html",
     "static/media/heart.svg": "/portfolio/static/media/heart.b526679fc0abc4b9eb91adbbe55778fc.svg",
     "main.ab8115ce.css.map": "/portfolio/static/css/main.ab8115ce.css.map",
-    "main.97212a69.js.map": "/portfolio/static/js/main.97212a69.js.map",
+    "main.e85c6b34.js.map": "/portfolio/static/js/main.e85c6b34.js.map",
     "453.f00fb91e.chunk.js.map": "/portfolio/static/js/453.f00fb91e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab8115ce.css",
-    "static/js/main.97212a69.js"
+    "static/js/main.e85c6b34.js"
   ]
 }
